@@ -1,5 +1,5 @@
 {
-  "name": "morfin/laravel-filter-querystring",
+  "name": "morfin/querystring-for-laravel",
   "description": "Forked from mehradsadeghi. Filter your queries based on url query string parameters like a breeze.",
   "keywords": [
     "query",
@@ -9,7 +9,7 @@
     "filter-querystring",
     "filter-query-string"
   ],
-  "homepage": "https://github.com/mehradsadeghi/laravel-filter-querystring",
+  "homepage": "https://github.com/morfin/laravel-filter-querystring",
   "license": "MIT",
   "type": "library",
   "authors": [
